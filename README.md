@@ -17,3 +17,6 @@ https://youtu.be/3edhmYjV38M
 //update: Profe, como esta? actualmente son las 12:06 de la madrugada del miercoles y le estoy escribiendo esto porque tenemos un problema con el video. Nuestro video es de 24 minutos ya que nos extendimos al explicar el codigo con detalle, pero youtube no permite subir videos a cuentas no verificadas que sean mayores a 15 minutos. Por ende le pido en primera disculpas por el inconveninte y en segunda subire dos videos (partire el video original a la mitad) y le enviare los links a ambos tambien por aqui. Mil disculpas por los inconvenientes y mil gracias por su comprension
 
 //PD: Dejare igual el link que subi antes de las 12 como prueba de que terminamos el trabajo a tiempo
+
+//Link del video Parte 1: https://youtu.be/39hAi4luuFU Parte 2: https://youtu.be/JgDca9PYbfQ
+Nuevamente le agradezco por su comprension y tenga feliz noche
